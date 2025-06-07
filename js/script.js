@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Replace with your Discord user ID
-    const DISCORD_ID = '123456789012345678';
+    const DISCORD_ID = '1060040091214544978';
     
     // Lanyard API for Discord presence
     function fetchDiscordPresence() {
